@@ -1,0 +1,5 @@
+*.csv
+*.ipynb_checkpoints
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
